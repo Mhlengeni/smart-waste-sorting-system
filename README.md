@@ -34,7 +34,7 @@ The implementation supports **active learning** and **federated learning**, enab
 
 ### 2. **YOLOv11 Object Detection**
 - **Framework:** Ultralytics YOLOv11  
-- **Training Data:** 8,147 waste images (3 main classes: Glass, Metal, Plastic)  
+- **Training Data:** 3,600 waste images (3 main classes: Glass, Metal, Plastic) for YOLO models, 8,147 waste images (4 main classes: Glass, Metal, Paper, Plastic) for CNN models  
 - **Annotation:** Roboflow (bounding-box labels in YOLO format)  
 - **Input Resolution:** 640×640 pixels  
 - **Optimization:** TensorRT (FP16 and INT8 quantization)  
