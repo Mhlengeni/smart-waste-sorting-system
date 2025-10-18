@@ -121,5 +121,34 @@ Latency breakdown confirms the system meets real-time operation requirements wit
 
 ---
 
-## 📂 Repository Structure
+## 📈 Future Work
 
+- Deploy physical prototype with real conveyor and robotic arm.  
+- Expand dataset to include **paper** and **contaminated waste** classes.  
+- Conduct multi-node federated training experiments.  
+- Integrate **reinforcement learning** for adaptive pick strategies.  
+- Add **predictive maintenance analytics** for industrial deployment.
+
+---
+
+## 📜 Citation
+
+If you use this project or dataset, please cite:
+
+> **Mhlengeni Miya (2025)**  
+> *Smart and Sustainable Waste Sorting System for Beverage Containers with YOLOv11: Real-Time Robotic Recycling Using Edge Computing and Federated Learning.*  
+> University of the Witwatersrand, Johannesburg.
+
+---
+
+## 📧 Contact
+
+**Author:** Mhlengeni Miya  
+**Email:** [mhlengeni.miya@gmail.com]  
+**GitHub:** [https://github.com/mhlengeni](https://github.com/mhlengeni)
+
+---
+
+### ⭐ Acknowledgements
+Special thanks to **Prof. Turgay Celik** for supervision and guidance.  
+This work was supported by the **School of Electrical and Information Engineering, Wits University**, as part of the **Information Engineering Design II** course.
